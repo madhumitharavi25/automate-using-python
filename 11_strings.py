@@ -34,3 +34,4 @@ print(name.lstrip())
 #replace and formating string
 print(spam.replace('e','i'))
 print('hello %s Iam %s' %(a,name))
+    
